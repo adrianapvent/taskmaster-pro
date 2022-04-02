@@ -152,7 +152,7 @@ $(".list-group").on("click", "span", function() {
 });
 
 // value of the date was changed 
-$(".list-group").on("blur", "input9type='text']"), function () {
+$(".list-group").on("blur", "input.type='text']"), function () {
   //get currenet text
   var date = $(this)
     .val()
